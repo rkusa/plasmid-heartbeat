@@ -1,0 +1,32 @@
+{
+  "name": "plasmid-heartbeat",
+  "version": "0.1.0",
+  "author": "Markus Ast <npm.m@rkusa.st>",
+  "description": "plasmid plugin for sending heartbeats",
+  "keywords": [
+    "scuttlebutt",
+    "gossip",
+    "epidemic",
+    "protocol",
+    "heartbeat",
+    "plasmid"
+  ],
+  "main": "lib/",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "bugs": {
+    "url": "https://github.com/rkusa/plasmid-heartbeat/issues"
+  },
+  "homepage": "https://github.com/rkusa/plasmid-heartbeat",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rkusa/plasmid-heartbeat.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
